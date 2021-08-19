@@ -16,4 +16,4 @@
 /aws-lambda-go/build/
 /aws-lambda-go/out.json
 /aws-lambda-go/test.sh
-/aws-sns/.idea/
+/aws-sqs/.idea/
