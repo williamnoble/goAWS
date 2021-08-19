@@ -1,0 +1,1 @@
+https://www.softkraft.co/aws-lambda-in-golang/#golang-aws-lambda-function-example
